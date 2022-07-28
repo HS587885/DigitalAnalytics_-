@@ -1,3 +1,5 @@
 # DigitalAnalytics_IntermediateProgramming
 
-# Basic Pyhon Studying
+# Basic Python Studying
+
+starts from week2 to week13
