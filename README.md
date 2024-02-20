@@ -1,4 +1,4 @@
-# DigitalAnalytics_IntermediateProgramming
+# DigitalAnalytics학과 IntermediateProgramming(중급프로그래밍)
 
 # Basic Python Studying
 
